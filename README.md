@@ -11,3 +11,5 @@ Less than 100 lines including the license.
 ## Compiling
  - Linux/OSX: `g++ -std=c++11 dndice.cpp -o roll`
  - Visual Studio Compiler (2013 and above): `cl dndice.cpp /Feroll.exe`
+
+Binaries for Linux and Windows are available on the [releases page](http://github.com/fsmv/dndice/releases).
